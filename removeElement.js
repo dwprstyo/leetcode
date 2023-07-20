@@ -8,7 +8,7 @@ var removeElement = function(nums, val) {
         }
     }
     
-    return nums;
+    return k;
 };
 
 console.log(removeElement([0,1,2,2,3,0,4,2], 2));
